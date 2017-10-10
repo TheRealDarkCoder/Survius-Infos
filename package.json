@@ -1,0 +1,15 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "Only a Discord Bot includes game info's about Survius a Awesome Free Open World Zombie Survival Game.http://www.survius.com",
+  "main": "sinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "OnlyRegistered",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
